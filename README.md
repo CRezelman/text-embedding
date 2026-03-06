@@ -47,3 +47,17 @@ docker compose up --build -d
 ```bash
 docker compose logs -f
 ```
+
+## API Documenation
+
+### Swagger
+
+Documentation can be found here `http://localhost:8000/docs`
+
+### OpenAPI
+
+Documentation can be found here `http://localhost:8000/openapi.json`
+
+### Recoc
+
+Documentation can be found here `http://localhost:8000/redoc`
